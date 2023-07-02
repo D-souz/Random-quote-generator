@@ -79,7 +79,7 @@ const quoteGenerator = () => {
       </div>
       <div className="footer">
           by
-          <a href="https://github.com" target="_blank" rel="noreferrer">D'souza</a>
+          <a href="https://github.com/D-souz" target="_blank" rel="noreferrer">D'souza</a>
         </div>
     </div>
   );
